@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 PostureCoach
+# 🧠 PostureCoach - (Hack Matrix 26' Hackathon Winner) 
 
 ### Real-Time AI-Powered Posture Analysis
 
